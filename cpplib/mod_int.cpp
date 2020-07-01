@@ -54,4 +54,3 @@ template<int MOD> struct Fp {
         return t;
     }
 };
-
